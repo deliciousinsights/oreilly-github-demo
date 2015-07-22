@@ -1,0 +1,7 @@
+- 0401 Key Terms
+- 0402 Getting a regular Git CLI
+- 0403 Committing and sending to GitHub
+- 0404 Using the hub CLI tool
+- 0405 Again, this time with the desktop apps
+- 0406 Good resources for learning Git
+- 0407 What we’ve learned
