@@ -7,7 +7,7 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 The first thing you want to do with this repo is quite likely [**fork it**](https://help.github.com/articles/fork-a-repo/).  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with [branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/), [issues](https://help.github.com/articles/about-issues/), [milestones](https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/), [labels](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/), the [wiki](https://help.github.com/articles/about-github-wikis/), and more.
+Once you’re on your fork, you can experiment however you like with it, play with [branches](https://help.github.com/articles/viewing-branches-in-your-repository/), [issues](https://help.github.com/articles/about-issues/), [milestones](https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/), [labels](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/), the [wiki](https://help.github.com/articles/about-github-wikis/), and more.
 
 ## What’s in there?
 
