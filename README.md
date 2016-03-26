@@ -13,6 +13,8 @@ Once you’re on your fork, you can experiment however you like with it, play wi
 
 Various files to support upcoming GitHub tasks the series trains you for, but more importantly, demonstration out-of-codebase contents (e.g. issues and milestones) so you can get a feeling of what features GitHub offers without having to first create such content or data.  The video series frequently uses this repository as a way of touring trainees briefly through these features before tackling them.
 
+Trying this out for the first time. **This is a test 1.**
+
 ## License
 
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
