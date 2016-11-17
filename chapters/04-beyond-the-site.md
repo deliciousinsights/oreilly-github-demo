@@ -5,3 +5,4 @@
 - 0405 Again, this time with the desktop apps
 - 0406 Good resources for learning Git
 - 0407 What we’ve learned
+- 0408 Try what you've learned so far. Can you save?
