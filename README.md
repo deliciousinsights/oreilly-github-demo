@@ -7,7 +7,12 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+Once you’re on your fork, you can experiment however you like with it, 
+[branches](http://www.tickboxconsulting.com)
+[issues](http://www.tickboxconsulting.com)
+[milestones](http://www.tickboxconsulting.com)
+[labels](http://www.tickboxconsulting.com)
+[wiki](http://www.tickboxconsulting.com)
 
 ## What’s in there?
 
