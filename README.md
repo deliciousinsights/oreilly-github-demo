@@ -1,4 +1,4 @@
-My Lovely Project
+My Lovely Project (Not so lovely as you may think about it)
 =================
 
 A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
