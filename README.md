@@ -8,6 +8,7 @@ A great example repo you can fork to your heart’s content, that serves as a la
 The first thing you want to do with this repo is quite likely **fork it** (http://shop.oreilly.com/category/videos/programming.do)**.  Use the Fork button in the top-right section of the page to do this.
 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+You get to learn lot of usfull things about github.
 
 ## What’s in there?
 
