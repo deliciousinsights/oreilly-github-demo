@@ -9,6 +9,8 @@ The first thing you want to do with this repo is quite likely **fork it** (http:
 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
 
+You get to learn lot of usfull things about github.
+
 ## What’s in there?
 
 Various files to support upcoming GitHub tasks the series trains you for, but more importantly, demonstration out-of-codebase contents (e.g. issues and milestones) so you can get a feeling of what features GitHub offers without having to first create such content or data.  The video series frequently uses this repository as a way of touring trainees briefly through these features before tackling them.
