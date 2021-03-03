@@ -18,4 +18,3 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
 
 Preston added this.
-And now I have merged this change.
