@@ -1,23 +1,39 @@
-My Lovely Project
-=================
+# TFC Getting Started
 
-A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
+In this repo, you'll find a quick and easy path to get started using [Terraform Cloud](https://app.terraform.io/) with the [Terraform CLI](https://github.com/hashicorp/terraform).
 
-## Getting started
+## What's here?
 
-The first thing you want to do with this repo is quite likely [**fork it**](https://help.github.com/articles/fork-a-repo/).  Use the Fork button in the top-right section of the page to do this.
+This repo contains two main things:
 
-Once you’re on your fork, you can experiment however you like with it, play with 
-[branches](https://help.github.com/articles/viewing-branches-in-your-repository/), 
-[issues](https://help.github.com/articles/about-issues), 
-[milestones](https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/), 
-[labels](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/), the 
-[wiki](https://help.github.com/articles/about-github-wikis/), and more.
+1. An example Terraform configuration which provisions some mock infrastructure to a fictitious cloud provider called "Fake Web Services" using the [`fakewebservices`](https://registry.terraform.io/providers/hashicorp/fakewebservices/latest) provider.
+1. A [script](./scripts/setup.sh) which automatically handles all the setup required to start using Terraform with Terraform Cloud.
 
-## What’s in there?
+## Requirements
 
-Various files to support upcoming GitHub tasks the series trains you for, but more importantly, demonstration out-of-codebase contents (e.g. issues and milestones) so you can get a feeling of what features GitHub offers without having to first create such content or data.  The video series frequently uses this repository as a way of touring trainees briefly through these features before tackling them.
+- Terraform 0.14 or higher
+- The ability to run a bash script in your terminal
+- [`sed`](https://www.gnu.org/software/sed/)
+- [`curl`](https://curl.se/)
+- [`jq`](https://stedolan.github.io/jq/)
 
-## License
+## Usage
 
-This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
+### 1. Log in to Terraform Cloud via the CLI
+
+Run `terraform login` and follow the prompts to get an API token for Terraform to use. If you don't have a Terraform Cloud account, you can create one during this step.
+
+### 2. Clone this repo
+
+```sh
+git clone https://github.com/hashicorp/tfc-getting-started.git
+cd tfc-getting-started
+```
+
+### 3. Run the setup script and follow the prompts
+
+```
+./scripts/setup.sh
+```
+
+Welcome to Terraform Cloud!
